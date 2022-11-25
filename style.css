@@ -1,0 +1,30 @@
+* {
+  width: 50px;
+  height: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(60, 0, 255);
+}
+.c1 {
+  background-color: rgb(60, 0, 255);
+  border: 2px solid rgb(60, 0, 255);
+}
+.c2 {
+  margin-top: 25px;
+}
+.c3 {
+  margin-top: 5px;
+}
+.c3 {
+  box-shadow: 5px 5px 10px;
+  border: 2px solid rgb(60, 0, 255);
+  margin-top: 5px;
+}
+.c4 {
+  border: 2px solid rgb(60, 0, 255);
+  margin-top: 10px;
+  box-shadow: 5px 5px 10px inset;
+}
+.c5 {
+  border: 2px solid rgb(60, 0, 255);
+  margin-top: 10px;
+}
